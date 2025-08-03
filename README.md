@@ -1,2 +1,2 @@
-# Python-Star-Pattern-of-R
+# Python-Star-Pattern
 This are the Star pattern
